@@ -8,7 +8,7 @@ Feel free to join me and the community to explore the magical world of open sour
 
 ## Goal
 
-> I aim to learn much more and improve my ability to contribute to open source projects and support the community.
+> I aim to learn much more about open source and improve my ability to contribute to open source projects and support the community.
 
 What I want to accomplish in the next 100 days:
 
