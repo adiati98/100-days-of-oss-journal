@@ -38,3 +38,7 @@ What I want to accomplish in the next 100 days:
   - Promote their creation on social media.
 - Support the community.
   - Give likes and/or comments on posts about open source on social media to motivate others.
+
+## Progress Track
+
+You can see my progress track [here](https://github.com/adiati98/100-days-of-oss-journal/blob/main/table-of-contents.md).
