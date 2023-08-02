@@ -15,7 +15,8 @@ What I want to accomplish in the next 100 days:
 ### Learning
 
 - Learn how to find issues — especially documentation and accessibility — on GitHub.
-- Learn how to spot issue(s) in repositories and write good issue(s).
+- Learn to spot issue(s) in repositories and write good issue(s).
+- Learn to write a better pull request.
 - Learn more about git commands.
 - Learn about GitHub Action.
 
@@ -30,7 +31,7 @@ What I want to accomplish in the next 100 days:
 - Support beginners in open source.
   - Writing blog posts about open source.
   - Mentoring.
-  - Updating documentation to make it beginner friendly.
+  - Updating documentation to make them beginner friendly.
 - Support open source content creators.
   - Attend Twitter spaces, streams, etc.
   - Read and give feedback on blog posts around open source.
