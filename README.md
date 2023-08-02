@@ -29,9 +29,9 @@ What I want to accomplish in the next 100 days:
 ### Support
 
 - Support beginners in open source.
-  - Writing blog posts about open source.
-  - Mentoring.
-  - Updating documentation to make them beginner friendly.
+  - Write blog posts about open source.
+  - Do mentoring.
+  - Update documentation to make them beginner friendly.
 - Support open source content creators.
   - Attend Twitter spaces, streams, etc.
   - Read and give feedback on blog posts around open source.
