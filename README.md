@@ -12,7 +12,7 @@ Feel free to join me and the community to explore the magical world of open sour
 
 What I want to accomplish in the next 100 days:
 
-### Learning
+### 📚 Learning
 
 - Learn how to find issues — especially documentation and accessibility — on GitHub.
 - Learn to spot issue(s) in repositories and write good issue(s).
@@ -20,13 +20,13 @@ What I want to accomplish in the next 100 days:
 - Learn more about git commands.
 - Learn about GitHub Action.
 
-### Action
+### 💫 Action
 
 - Contribute to open source projects. I don't set any goals on how many projects, but I want to contribute to various open source projects.
 - Collaborate with other contributors and/or maintainers in contributing to open source.
 - Be more active in open source communities, such as through social media, Discord, Slack, etc.
 
-### Support
+### 🤝 Support
 
 - Support beginners in open source.
   - Write blog posts about open source.
