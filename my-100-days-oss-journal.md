@@ -2,19 +2,15 @@
 
 ## Day 1
 
-- **Project**: [Virtual Coffee Podcast Transcriptions](https://github.com/Virtual-Coffee/podcast-transcripts/pull/106)
-- **Description**:
+### ✨ Contribution
 
-  I'm editing the previous improved transcriptions to follow the new guideline. This is an ongoing process.
+#### [Virtual Coffee Podcast — Transcriptions](https://virtualcoffee.io/podcast)
+- **Description**: Previous improved transcriptions need to be edited to follow the new guidelines.
 - **Tasks completed**:
+  -  Edited episode `6_999.srt`.
+  -  Pushed changes to the [draft PR](https://github.com/Virtual-Coffee/podcast-transcripts/pull/106). 
+- **Challenges faced**: It's summer holiday and currently, we're on vacation. So, **time** — for the first 2.5 weeks into the #100DaysofOSS — is my biggest challenge 😅.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
 
-  I edited one episode (`6_999.srt`) and pushed it to the draft PR. 
-- **Challenges faced**:
-
-  We're on vacation. So, **time** — for the first 2.5 weeks into the #100DaysofOSS — is my biggest challenge 😅.
-- **Resources used**:
-
-  N/A
-- **OpenSauced Highlight**:
-
-  N/A
+  
