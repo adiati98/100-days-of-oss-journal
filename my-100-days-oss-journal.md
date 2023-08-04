@@ -29,9 +29,13 @@
 
 ## Day 3
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+### ✨ Contribution
+
+#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: My goal was to work on an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/940) raised to update some wordings for clarification and create a pull request.
+- **Tasks completed**:
+  - Created a [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/942) to fix the wordings.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
