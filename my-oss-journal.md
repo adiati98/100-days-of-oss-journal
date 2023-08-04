@@ -62,3 +62,28 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+# 100DaysOfOSS Progress Tracker
+
+## Day 5
+
+### ✨ Contribution
+
+#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+
+- **Description**: When I read the README, I had a thought that beginners in open source probably will get confused. Supposed they have little experience in OSS, they might not know on which file do they have to work on their progress, how to clone the repo, etc.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/open-sauced/100-days-of-oss-template/issues/7) to raise the concern and propose updating the README to make it beginners friendly by adding some steps and code examples.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: Reading the [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/945) from Dominic, I remember that we have some old links in our README. So I checked all the links in our docs.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/946) to fix broken links in VC's README and CONTRIBUTING files.
+  - Made a [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/947) to fix the links.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
