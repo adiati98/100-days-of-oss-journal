@@ -39,3 +39,26 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 4
+
+### ✨ Contribution
+
+#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: I revisited Virtual Coffee resources and I found that the titles' link in the [Keeping Up with Virtual Coffee](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/keeping-up-with-virtual-coffee) are navigating straight to the target link, even when user clicks them from the Table of Content.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/943) to remove the link from the titles and move them into the content.
+  - Made a [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/944) to move the links.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+#### [Open Sauced — Insights](https://github.com/open-sauced/insights)
+
+- **Description**: I redeemed the Open Sauced's 12 months free upgraded access coupon code. During the process, sensitive information such as credit card details, etc., were required but I didn't get any confirmations of the subscription and there's no information to be found about it.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/open-sauced/insights/issues/1441) to raise the concern and ask for a feature to add subscription dahsboard for paid user.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
