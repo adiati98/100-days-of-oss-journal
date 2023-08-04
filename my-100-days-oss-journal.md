@@ -4,7 +4,7 @@
 
 ### ✨ Contribution
 
-#### [Virtual Coffee Podcast — Transcriptions](https://virtualcoffee.io/podcast)
+#### [Virtual Coffee — Podcast Transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
 
 - **Description**: Previous improved transcriptions need to be edited to follow the new guidelines.
 - **Tasks completed**:
@@ -26,3 +26,12 @@
 - **Resources used**:
   - [#100DaysOfOSS — Twitter Space](https://twitter.com/saucedopen/status/1686383947452915713?s=20)
 - **OpenSauced Highlight**: N/A
+
+## Day 3
+
+- **Project**: [Project Name]
+- **Description**: [Briefly describe the project and your goals for the day]
+- **Tasks completed**: [List the tasks you completed]
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
