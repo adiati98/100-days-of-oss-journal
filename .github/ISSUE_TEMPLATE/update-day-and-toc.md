@@ -16,7 +16,7 @@ The progress of #100DaysOfOSS must be updated by writing down the open source-re
 <!-- Change X in the "day X" to the number of the day -->
 
 - Write the tasks done in `day X` in the `my-100-days-oss-journal.md`.
-- Update the Table of Content.
+- Update the Table of Contents in the `table-of-contents.md`.
   
   ```markdown
   [Day X](my-oss-journal.md#day-x)
