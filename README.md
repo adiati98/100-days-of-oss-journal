@@ -20,7 +20,7 @@ What I want to accomplish in the next 100 days:
 - Learn more about git commands.
 - Learn about GitHub Action.
 
-### 💫 Action
+### ✨ Action
 
 - Contribute to open source projects. I don't set any goals on how many projects, but I want to contribute to various open source projects.
 - Collaborate with other contributors and/or maintainers in contributing to open source.
