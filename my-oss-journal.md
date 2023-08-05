@@ -193,3 +193,35 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 11
+
+### 📚 Learning
+
+#### How to make a table using Markdown
+
+- **Description**: I have an idea to put the bullet points of the journal in a table.
+- **Tasks completed**:
+  - Learned to make a table using Markdown in a private repository.
+- **Challenges faced**: After some thoughts, I won't use the table.
+
+  - I can't figure out how to tidy up the width of the columns.
+  - When I need to have a couple of `<br>`s, the format looks weird.
+
+  Conclusion: I won't use the table 😁.
+
+- **Resources used**:
+  - [Markdown table: How to Create a Great Looking Table](https://markdown.land/markdown-table)
+  - [Set table column width via Markdown](https://stackoverflow.com/questions/36121672/set-table-column-width-via-markdown)
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+#### Open Source vs Closed Source — Twitter Space
+
+- **Description**: Attended the Twitter space hosted by YK aka CS Dojo.
+- **Resources**:
+
+  - [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick)
+
+  There are some other great resources dropped as reply in a tweet. But the tweet is now already deleted by the author. I'm too late 😖
