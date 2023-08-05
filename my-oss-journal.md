@@ -203,12 +203,10 @@
 - **Description**: I have an idea to put the bullet points of the journal in a table.
 - **Tasks completed**:
   - Learned to make a table using Markdown in a private repository.
-- **Challenges faced**: After some thoughts, I won't use the table.
+- **Challenges faced**: After some thoughts, I won't use the table 😁.
 
   - I can't figure out how to tidy up the width of the columns.
   - When I need to have a couple of `<br>`s, the format looks weird.
-
-  Conclusion: I won't use the table 😁.
 
 - **Resources used**:
   - [Markdown table: How to Create a Great Looking Table](https://markdown.land/markdown-table)
