@@ -222,6 +222,10 @@
 
   There are some other great resources dropped as reply in a tweet. But the tweet is now already deleted by the author. I'm too late 😖
 
+### 🎉 Wins
+
+- All of my pull requests for Virtual Coffee (4 of them!) got merged 🥳!
+
 ## Day 12
 
 ### 📚 Learning
