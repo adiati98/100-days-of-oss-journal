@@ -87,3 +87,24 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 6
+
+### ✨ Contribution
+
+#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+
+- **Description**: My goal for today is to start working on updating the README. My ideas:
+  - Add the code examples for git commands.
+  - Add the steps for users to work on their progress using the template in the `journal.md`.
+  - Add the steps to update the `table-of-contents.md`.
+  - Add a paragraph including a link to the Markdown docs for folks who are not familiar with Markdown.
+- **Tasks completed**:
+  - Cloned the template repo, made it private, and use it as a draft and a playground to try things out because I can't live preview the format of markdown locally.
+  - Added code examples for git commands.
+  - Added steps for users to work on their progress and to use the `journal.md` template in the "Getting Started" section.
+  - Added steps to update the `table-of-contents.md` in the "Tips for making the most out of #100DaysOfOSS" section.
+  - Added a paragraph to include link to Markdown basic sytax in the "Instructions" section.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
