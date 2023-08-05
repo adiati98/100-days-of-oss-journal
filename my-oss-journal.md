@@ -168,3 +168,28 @@
 ### 📚 Learning & 🤝 Support
 
 - **Description**: I'm slowing down today. So I decided to read some articles around open source on [DEV](https://dev.to/). I highly recommended posts from [BekahHW](https://dev.to/bekahhw), [Open Sauced](https://dev.to/opensauced), and [Pradumna Saraf](https://dev.to/pradumnasaraf)!
+
+## Day 10
+
+### ✨ Contribution
+
+#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: My goal is to add the August newsletter to the website.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/953) to add the August newsletter.
+  - Made a [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/954) to add the newsletter.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Action
+
+#### [Ayu Adiati — 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
+
+- **Description**: My goal is to update the README of my OSS journal repository to fit my needs and as an attempt to participate in the ["Healthy Habits" monthly challenge](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-healthy-habits-for-happy-devs-monthly-challenge-5b7h) by Virtual Coffee.
+- **Tasks completed**:
+  - Updated the [README.md](README.md), created a [pull request](https://github.com/adiati98/100-days-of-oss-journal/pull/3), and merged it.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
