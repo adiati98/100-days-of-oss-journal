@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [🎯 Goal](readme.md#-goal)
+- [🎯 Goal](README.md#-goal)
 - [Day 1](my-oss-journal.md#day-1)
 - [Day 2](my-oss-journal.md#day-2)
 - [Day 3](my-oss-journal.md#day-3)
