@@ -135,3 +135,18 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 8
+
+### ✨ Contribution
+
+#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: Bekah asked the monthly challenges team to update the monthly challenge page with the new challenge at the beginning of the month. I've never done this, but I happily volunteered to do it.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/951) to update the monthly challenge page.
+  - Created a [draft pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/952) for the monthly challenge. A draft is necessary because we're still waiting for the blogpost to be published and include it in the PR.
+- **Challenges faced**:
+  - There's no proper docs about how to update the monthly challenges except the way to navigate to the file that needs to be updated. So I had to take a look at previous issues and pull requests. Time for updating the docs 😄!
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
