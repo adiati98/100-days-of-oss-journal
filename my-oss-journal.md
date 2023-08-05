@@ -63,8 +63,6 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-# 100DaysOfOSS Progress Tracker
-
 ## Day 5
 
 ### ✨ Contribution
