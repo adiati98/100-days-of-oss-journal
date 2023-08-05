@@ -221,3 +221,42 @@
   - [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick)
 
   There are some other great resources dropped as reply in a tweet. But the tweet is now already deleted by the author. I'm too late 😖
+
+## Day 12
+
+### 📚 Learning
+
+#### How to create issues and pull requests templates on GitHub
+
+- **Description**: I know about issues and PRs templates on GitHub but I never create one. I want to know how to create them and will use them in my #100DaysOfOSS journal.
+- **Resources**:
+  - [About issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+  - [Creating a pull request template for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+
+### ✨ Action
+
+#### [Ayu Adiati — 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
+
+- **Description**: My goal is to have an issue and a pull request template in this repository.
+- **Tasks completed**:
+  - Created an issue template — [update-day-and-toc.md](update-day-and-toc.md).
+  - Created a pull request template — [pull_request_template.md](pull_request_template.md).
+- **Challenges faced**:
+  - It's more of a curiosity than a challenge. I read that we can have multiple PR templates that we can store in the `.github` folder. But when I tried, not any of them show in the PR form. It might needs the query parameters, but I couldn't find any resources on how to do it yet.
+- **Resources used**:
+  - [Using query parameters to create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/using-query-parameters-to-create-a-pull-request)
+- **OpenSauced Highlight**: N/A
+
+### ✨ Contribution
+
+#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+
+- **Description**: After read a docs about GitHub relative links in markup files, I need to revise the steps to update the Table of Contents in the template because currently, I pointed the old way; to use the absolute path.
+- **Tasks completed**:
+  - Updated the steps to update the Table of Contents.
+  - Moved how to update the Table of Contents from the "Tips for making the most out of #100DaysOfOSS" section into "Forking this repository" section.
+  - Fix wordings to combine steps 3 and 4 in the "Forking this repository" section.
+- **Challenges faced**: N/A
+- **Resources used**:
+  - [Relative links in markup files](https://github.blog/2013-01-31-relative-links-in-markup-files/)
+- **OpenSauced Highlight**: N/A
