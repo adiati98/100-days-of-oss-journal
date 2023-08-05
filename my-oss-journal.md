@@ -108,3 +108,30 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 7
+
+### ✨ Contribution
+
+#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+
+- **Description**: After taking a closer look at the repo, I realized that besides forking, folks can also click that "Use this template" to create a repo. I've never done this, so I need to do some research or do trial and error.
+- **Tasks completed**:
+  - Tried out creating a repo with the button and took notes.
+  - Added the "Creating a New Repository Using This Template" section in the "Getting Started".
+  - Added an opening paragraph in the "Getting Started" section to introduce ways to use the template.
+  - Updated wordings.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Action
+
+#### [Ayu Adiati — 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
+
+- **Description**: I think now it's my time to create my own #100DaysOfOSS journal 😄.
+- **Tasks completed**:
+  - Created new repository for my #100DaysOfOSS journal that generated from the original template.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
