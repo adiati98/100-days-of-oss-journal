@@ -243,8 +243,8 @@
 
 - **Description**: My goal is to have an issue and a pull request template in this repository.
 - **Tasks completed**:
-  - Created an issue template — [update-day-and-toc.md](update-day-and-toc.md).
-  - Created a pull request template — [pull_request_template.md](pull_request_template.md).
+  - Created an issue template — [update-day-and-toc.md](.github/ISSUE_TEMPLATE/update-day-and-toc.md).
+  - Created a pull request template — [pull_request_template.md](.github/pull_request_template.md).
 - **Challenges faced**:
   - It's more of a curiosity than a challenge. I read that we can have multiple PR templates that we can store in the `.github` folder. But when I tried, not any of them show in the PR form. It might needs the query parameters, but I couldn't find any resources on how to do it yet.
 - **Resources used**:
