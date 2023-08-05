@@ -150,3 +150,21 @@
   - There's no proper docs about how to update the monthly challenges except the way to navigate to the file that needs to be updated. So I had to take a look at previous issues and pull requests. Time for updating the docs 😄!
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 9
+
+### ✨ Contribution
+
+#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: The blog post for the monthly challenge is published!
+- **Tasks completed**:
+  - Added the link to the blog post.
+  - Switched the draft of [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/952) to ready for review.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 📚 Learning & 🤝 Support
+
+- **Description**: I'm slowing down today. So I decided to read some articles around open source on [DEV](https://dev.to/). I highly recommended posts from [BekahHW](https://dev.to/bekahhw), [Open Sauced](https://dev.to/opensauced), and [Pradumna Saraf](https://dev.to/pradumnasaraf)!
