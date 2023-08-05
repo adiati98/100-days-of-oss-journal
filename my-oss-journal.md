@@ -4,7 +4,7 @@
 
 ### ✨ Contribution
 
-#### [Virtual Coffee — Podcast Transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
+#### [Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
 
 - **Description**: Previous improved transcriptions need to be edited to follow the new guidelines.
 - **Tasks completed**:
@@ -18,7 +18,7 @@
 
 ### 🤝 Support
 
-#### #100DaysOfOSS — Twitter Space
+#### Twitter Space: #100DaysOfOSS
 
 - **Description**: Attended the Twitter space hosted by OpenSauced.
 - **Tasks completed**: N/A
@@ -31,7 +31,7 @@
 
 ### ✨ Contribution
 
-#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 
 - **Description**: My goal was to work on an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/940) raised to update some wordings for clarification and create a pull request.
 - **Tasks completed**:
@@ -44,7 +44,7 @@
 
 ### ✨ Contribution
 
-#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 
 - **Description**: I revisited Virtual Coffee resources and I found that the titles' link in the [Keeping Up with Virtual Coffee](https://virtualcoffee.io/resources/virtual-coffee-handbook/guides-to-virtual-coffee/keeping-up-with-virtual-coffee) are navigating straight to the target link, even when user clicks them from the Table of Content.
 - **Tasks completed**:
@@ -54,7 +54,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-#### [Open Sauced — Insights](https://github.com/open-sauced/insights)
+#### [open-sauced / insights](https://github.com/open-sauced/insights)
 
 - **Description**: I redeemed the Open Sauced's 12 months free upgraded access coupon code. During the process, sensitive information such as credit card details, etc., were required but I didn't get any confirmations of the subscription and there's no information to be found about it.
 - **Tasks completed**:
@@ -67,7 +67,7 @@
 
 ### ✨ Contribution
 
-#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+#### [open-sauced / 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
 
 - **Description**: When I read the README, I had a thought that beginners in open source probably will get confused. Supposed they have little experience in OSS, they might not know on which file do they have to work on their progress, how to clone the repo, etc.
 - **Tasks completed**:
@@ -76,7 +76,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 
 - **Description**: Reading the [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/945) from Dominic, I remember that we have some old links in our README. So I checked all the links in our docs.
 - **Tasks completed**:
@@ -90,7 +90,7 @@
 
 ### ✨ Contribution
 
-#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+#### [open-sauced / 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
 
 - **Description**: My goal for today is to start working on updating the README. My ideas:
   - Add the code examples for git commands.
@@ -111,7 +111,7 @@
 
 ### ✨ Contribution
 
-#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+#### [open-sauced / 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
 
 - **Description**: After taking a closer look at the repo, I realized that besides forking, folks can also click that "Use this template" to create a repo. I've never done this, so I need to do some research or do trial and error.
 - **Tasks completed**:
@@ -125,7 +125,7 @@
 
 ### ✨ Action
 
-#### [Ayu Adiati — 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
+#### [adiati98 / 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
 
 - **Description**: I think now it's my time to create my own #100DaysOfOSS journal 😄.
 - **Tasks completed**:
@@ -138,7 +138,7 @@
 
 ### ✨ Contribution
 
-#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 
 - **Description**: Bekah asked the monthly challenges team to update the monthly challenge page with the new challenge at the beginning of the month. I've never done this, but I happily volunteered to do it.
 - **Tasks completed**:
@@ -153,7 +153,7 @@
 
 ### ✨ Contribution
 
-#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 
 - **Description**: The blog post for the monthly challenge is published!
 - **Tasks completed**:
@@ -171,7 +171,7 @@
 
 ### ✨ Contribution
 
-#### [Virtual Coffee IO](https://github.com/Virtual-Coffee/virtualcoffee.io)
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
 
 - **Description**: My goal is to add the August newsletter to the website.
 - **Tasks completed**:
@@ -183,7 +183,7 @@
 
 ### ✨ Action
 
-#### [Ayu Adiati — 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
+#### [adiati98 / 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
 
 - **Description**: My goal is to update the README of my OSS journal repository to fit my needs and as an attempt to participate in the ["Healthy Habits" monthly challenge](https://dev.to/virtualcoffee/join-virtual-coffee-in-the-healthy-habits-for-happy-devs-monthly-challenge-5b7h) by Virtual Coffee.
 - **Tasks completed**:
@@ -213,7 +213,7 @@
 
 ### 🤝 Support
 
-#### Open Source vs Closed Source — Twitter Space
+#### Twitter Space: Open Source vs Closed Source
 
 - **Description**: Attended the Twitter space hosted by YK aka CS Dojo.
 - **Resources**:
@@ -239,7 +239,7 @@
 
 ### ✨ Action
 
-#### [Ayu Adiati — 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
+#### [adiati98 / 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
 
 - **Description**: My goal is to have an issue and a pull request template in this repository.
 - **Tasks completed**:
@@ -253,7 +253,7 @@
 
 ### ✨ Contribution
 
-#### [Open Sauced — 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
+#### [open-sauced / 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template)
 
 - **Description**: After read a docs about GitHub relative links in markup files, I need to revise the steps to update the Table of Contents in the template because currently, I pointed the old way; to use the absolute path.
 - **Tasks completed**:
