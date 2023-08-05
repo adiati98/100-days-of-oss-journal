@@ -10,3 +10,4 @@
 - [Day 6](my-oss-journal.md#day-6)
 - [Day 7](my-oss-journal.md#day-7)
 - [Day 8](my-oss-journal.md#day-8)
+- [Day 9](my-oss-journal.md#day-9)
