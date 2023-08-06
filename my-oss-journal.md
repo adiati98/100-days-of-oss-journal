@@ -124,7 +124,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-### ✨ Action
+### ✨ Self-Contribution
 
 #### [adiati98 / 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
 
@@ -182,7 +182,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-### ✨ Action
+### ✨ Self-Contribution
 
 #### [adiati98 / 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
 
@@ -238,7 +238,7 @@
   - [About issue and pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
   - [Creating a pull request template for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
 
-### ✨ Action
+### ✨ Self-Contribution
 
 #### [adiati98 / 100-days-of-oss-journal](https://github.com/adiati98/100-days-of-oss-journal)
 
