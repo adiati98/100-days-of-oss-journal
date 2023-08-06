@@ -6,9 +6,9 @@ I'm participating in the [#100DaysOfOSS](https://docs.opensauced.pizza/community
 
 Feel free to join me and the community to explore the magical world of open source! 🙌
 
-## 🎯 Goal
+## 🎯 Goals
 
-> I aim to learn much more about open source and improve my ability to contribute to open source projects and support the community.
+> I aim to learn more about open source and improve my ability to contribute to open source projects and support the community.
 
 What I want to accomplish in the next 100 days:
 
@@ -37,7 +37,7 @@ What I want to accomplish in the next 100 days:
   - Read and give feedback on blog posts around open source.
   - Promote their creation on social media.
 - Support the community.
-  - Answer questions around open source.
+  - Answer questions around open source topics.
   - Give likes and/or comments on posts about open source on social media and blog posts to motivate others.
 
 ## 📈 Progress Track
