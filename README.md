@@ -37,7 +37,8 @@ What I want to accomplish in the next 100 days:
   - Read and give feedback on blog posts around open source.
   - Promote their creation on social media.
 - Support the community.
-  - Give likes and/or comments on posts about open source on social media to motivate others.
+  - Answer questions around open source.
+  - Give likes and/or comments on posts about open source on social media and blog posts to motivate others.
 
 ## 📈 Progress Track
 
