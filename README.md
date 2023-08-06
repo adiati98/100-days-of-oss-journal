@@ -42,4 +42,4 @@ What I want to accomplish in the next 100 days:
 
 ## 📈 Progress Track
 
-You can see my progress track [here](https://github.com/adiati98/100-days-of-oss-journal/blob/main/table-of-contents.md).
+You can see my daily progress [here](https://github.com/adiati98/100-days-of-oss-journal/blob/main/table-of-contents.md).
