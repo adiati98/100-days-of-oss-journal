@@ -265,3 +265,23 @@
 - **Resources used**:
   - [Relative links in markup files](https://github.blog/2013-01-31-relative-links-in-markup-files/)
 - **OpenSauced Highlight**: N/A
+
+## Day 13
+
+### 📚 Learning
+
+#### Learn about GitHub Action
+
+- **Description**: I always wanted to know how GitHub Action works and when we want to use it.
+- **Challenges faced**: It's very confusing 😅. Maybe I should watch some tutorial videos and try it out to understand it better.
+- **Resources used**:
+  - [GitHub Actions documentation](https://docs.github.com/en/actions)
+
+### 🤝 Support
+
+- **Description**: I wanted to share my #100DaysOfOSS journey. I might do this weekly or every other week and encourage others to learn about open source.
+- **Tasks completed**:
+  - Wrote a rough draft for the post.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
