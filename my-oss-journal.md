@@ -290,7 +290,7 @@
 
 ### 🤝 Support
 
-- **Description**: My goal is to do final edit of the draft post and publish it.
+- **Description**: My goal is to finish the draft post.
 - **Tasks completed**:
   - Finished the draft of #100DaysOfOSS post.
 - **Challenges faced**: N/A
