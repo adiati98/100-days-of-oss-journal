@@ -117,7 +117,7 @@
   - Made a [pull request](https://github.com/open-sauced/100-days-of-oss-template/pull/8).
 - **Challenges faced**: N/A
 - **Resources used**: N/A
-- **OpenSauced Highlight**: N/A
+- **OpenSauced Highlight**: [Docs: Add more information to use template](https://insights.opensauced.pizza/feed/352)
 
 ### ✨ Self-Contribution
 
