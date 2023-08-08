@@ -296,3 +296,15 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 15
+
+### 🤝 Support
+
+- **Description**: My goal is to do final edit of the draft and publish it.
+- **Tasks completed**:
+  - Did final edits.
+  - Published the [post](https://adiati.com/100daysofoss-recap-day-1-14).
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
