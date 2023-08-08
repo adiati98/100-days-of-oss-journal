@@ -324,6 +324,6 @@
 
 - **Description**: After searching for existing open and closed issues and PRs, I could't found anything that saying about the order of highlights.
 - **Tasks completed**:
-  - Created an issue to ask for a feature for sorting highlights based on the selected date from the latest to the oldest.
+  - Created an [issue](https://github.com/open-sauced/insights/issues/1523) to ask for a feature for sorting highlights based on the selected date from the latest to the oldest.
 - **Challenges faced**:
   - There are hunderds of issues and PRs. I tried to search what I'm looking for with the keywords "order", "sort", and "date", and I couldn't find anything related to what I search for. I hope I didn't make duplicate issue 😅. This is one of the reasons I often feel hesitate to create an issue on a repo that I'm not familiar with 😣. But, hey, I'm learning 😄.
