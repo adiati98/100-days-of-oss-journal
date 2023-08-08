@@ -20,12 +20,7 @@
 
 #### Twitter Space: #100DaysOfOSS
 
-- **Description**: Attended the Twitter space hosted by OpenSauced.
-- **Tasks completed**: N/A
-- **Challenges faced**: I didn't have time to sit behind my computer because we were out for the whole day. But, hey, it's vacation 😄!
-- **Resources used**:
-  - [#100DaysOfOSS — Twitter Space](https://twitter.com/saucedopen/status/1686383947452915713?s=20)
-- **OpenSauced Highlight**: N/A
+- **Description**: Attended the [Twitter space hosted by OpenSauced](https://twitter.com/saucedopen/status/1686383947452915713?s=20).
 
 ## Day 3
 
@@ -282,9 +277,6 @@
 - **Description**: I wanted to share my #100DaysOfOSS journey. I might do this weekly or every other week and encourage others to learn about open source.
 - **Tasks completed**:
   - Wrote a rough draft for the post.
-- **Challenges faced**: N/A
-- **Resources used**: N/A
-- **OpenSauced Highlight**: N/A
 
 ## Day 14
 
@@ -305,6 +297,3 @@
 - **Tasks completed**:
   - Did final edits.
   - Published the [post](https://adiati.com/100daysofoss-recap-day-1-14).
-- **Challenges faced**: N/A
-- **Resources used**: N/A
-- **OpenSauced Highlight**: N/A
