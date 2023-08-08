@@ -297,3 +297,33 @@
 - **Tasks completed**:
   - Did final edits.
   - Published the [post](https://adiati.com/100daysofoss-recap-day-1-14).
+
+## Day 16
+
+### ✨ Self-Contribution
+
+#### [Open Sauced Highlights](https://insights.opensauced.pizza/)
+
+- **Description**: My goal is to add PR highlights to Open Sauced Insights.
+- **Tasks completed**:
+  - Created [highlights](https://insights.opensauced.pizza/user/adiati98/highlights) of my (kind of) big PRs.
+- **Challenges faced**:
+  - I added the highlights per repo because it was easier that way. I thought I could edit and fix the date later from the calendar icon available so I can reorder the highlights based on the date of creation. But changing the date doesn't change the order 😕. I might create an issue if I don't see any issue or PR mentioning this.
+- **Resources used**:
+  - [Effectively Highlight Your Contributions — Open Sauced Docs](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#effectively-highlight-your-contributions)
+
+🤝 Support
+
+#### Twitter Space: Open Source Hour
+
+- **Description**: I attended the Twitter space "[Open Source Hour](https://twitter.com/saucedopen/status/1688919491621888000?s=20)" hosted by Open Sauced
+
+### ✨ Contribution
+
+#### [open-sauced / insights](https://github.com/open-sauced/insights)
+
+- **Description**: After searching for existing open and closed issues and PRs, I could't found anything that saying about the order of highlights.
+- **Tasks completed**:
+  - Created an issue to ask for a feature for sorting highlights based on the selected date from the latest to the oldest.
+- **Challenges faced**:
+  - There are hunderds of issues and PRs. I tried to search what I'm looking for with the keywords "order", "sort", and "date", and I couldn't find anything related to what I search for. I hope I didn't make duplicate issue 😅. This is one of the reasons I often feel hesitate to create an issue on a repo that I'm not familiar with 😣. But, hey, I'm learning 😄.
