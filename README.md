@@ -46,4 +46,4 @@ You can see my daily progress [here](https://github.com/adiati98/100-days-of-oss
 
 ## 📎 About this Template
 
-This template is generated from [open-sauced / 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template). You can clone and customize it to your need. And feel free to fork and use my modified template.
+This template is generated from [open-sauced / 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template). You can clone and customize it to your need. Or feel free to fork and use my modified template.
