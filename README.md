@@ -4,7 +4,7 @@ Hey there 👋!
 
 I'm participating in the [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/) challenge with [OpenSauced](https://opensauced.pizza/), starting from July 24th, 2023. And this repo is where I'm keeping track of my 100 days of open source journey.
 
-Feel free to join me and the community to explore the magical world of open source! 🙌
+Join me and the community to explore the magical world of open source! 🙌
 
 ## 🎯 Goals
 
@@ -43,3 +43,7 @@ What I want to accomplish in the next 100 days:
 ## 📈 Progress Track
 
 You can see my daily progress [here](https://github.com/adiati98/100-days-of-oss-journal/blob/main/table-of-contents.md).
+
+## 📎 About this Template
+
+This template is generated from [open-sauced / 100-days-of-oss-template](https://github.com/open-sauced/100-days-of-oss-template). You can clone and customize it to your need. And feel free to fork and use my modified template.
