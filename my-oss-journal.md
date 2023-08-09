@@ -326,4 +326,22 @@
 - **Tasks completed**:
   - Created an [issue](https://github.com/open-sauced/insights/issues/1523) to ask for a feature for sorting highlights based on the selected date from the latest to the oldest.
 - **Challenges faced**:
+
   - There are hunderds of issues and PRs. I tried to search what I'm looking for with the keywords "order", "sort", and "date", and I couldn't find anything related to what I search for. I hope I didn't make duplicate issue 😅. This is one of the reasons I often feel hesitate to create an issue on a repo that I'm not familiar with 😣. But, hey, I'm learning 😄.
+
+  ## Day 17
+
+### ✨ Contribution
+
+#### [open-sauced / insights](https://github.com/open-sauced/insights)
+
+- **Description**: I'm exploring the [OpenSauced Insights website](https://insights.opensauced.pizza/) to see how it works. And I might create issue(s) when I see any.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/open-sauced/insights/issues/1523) to ask feature to sort the highlights based on the PRs' date.
+  - Created an [issue](https://github.com/open-sauced/insights/issues/1528) to address a bug on the calendar when adding and editing a highlight.
+  - Created an [issue](https://github.com/open-sauced/insights/issues/1529) to address a bug of avatars are either empty or not the user.
+  - Created an [issue](https://github.com/open-sauced/insights/issues/1530) to address a bug of left sidebar on highlights page is cut off on big screen.
+- **Challenges faced**:
+  - It's still a little bit hard for me to write good titles and clear descriptions for issues — need to practive more. So I use screenshots and screen recording (in GIF) to make my point clearer.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
