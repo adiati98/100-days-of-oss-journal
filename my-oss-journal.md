@@ -329,7 +329,7 @@
 
   - There are hunderds of issues and PRs. I tried to search what I'm looking for with the keywords "order", "sort", and "date", and I couldn't find anything related to what I search for. I hope I didn't make duplicate issue 😅. This is one of the reasons I often feel hesitate to create an issue on a repo that I'm not familiar with 😣. But, hey, I'm learning 😄.
 
-  ## Day 17
+## Day 17
 
 ### ✨ Contribution
 
@@ -343,5 +343,19 @@
   - Created an [issue](https://github.com/open-sauced/insights/issues/1530) to address a bug of left sidebar on highlights page is cut off on big screen.
 - **Challenges faced**:
   - It's still a little bit hard for me to write good titles and clear descriptions for issues — need to practive more. So I use screenshots and screen recording (in GIF) to make my point clearer.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+## Day 18
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
+
+- **Description**: My goal is to continue to edit the previous improved transcripts to follow new guidelines.
+- **Tasks completed**:
+  - Finished the `6_3.srt`.
+  - Half finished the `6_5.srt`.
+- **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
