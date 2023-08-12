@@ -2,7 +2,7 @@
 
 Hey there 👋!
 
-I'm participating in the [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/) challenge with [OpenSauced](https://opensauced.pizza/), starting from July 24th, 2023. And this repo is where I'm keeping track of my 100 days of open source journey.
+I'm participating in the [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/) challenge with [OpenSauced](https://opensauced.pizza/), starting from July 23rd, 2023. And this repo is where I'm keeping track of my 100 days of open source journey.
 
 Join me and the community to explore the magical world of open source! 🙌
 

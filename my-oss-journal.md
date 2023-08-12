@@ -2,6 +2,12 @@
 
 ## Day 1
 
+### 🤝 Support
+
+- **Description**: I didn't have time to explore anything today, so I [promoted the launching of #100DaysOfOSS on Twitter](https://twitter.com/AdiatiAyu/status/1683148749265158144?s=20) as my support for the challenge and to announce it.
+
+## Day 2
+
 ### ✨ Contribution
 
 #### [Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
@@ -14,7 +20,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 2
+## Day 3
 
 ### 🤝 Support
 
@@ -22,7 +28,7 @@
 
 - **Description**: Attended the [Twitter space hosted by OpenSauced](https://twitter.com/saucedopen/status/1686383947452915713?s=20).
 
-## Day 3
+## Day 4
 
 ### ✨ Contribution
 
@@ -35,7 +41,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 4
+## Day 5
 
 ### ✨ Contribution
 
@@ -58,7 +64,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 5
+## Day 6
 
 ### ✨ Contribution
 
@@ -81,7 +87,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 6
+## Day 7
 
 ### ✨ Contribution
 
@@ -102,7 +108,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 7
+## Day 8
 
 ### ✨ Contribution
 
@@ -130,7 +136,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 8
+## Day 9
 
 ### ✨ Contribution
 
@@ -145,7 +151,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 9
+## Day 10
 
 ### ✨ Contribution
 
@@ -163,7 +169,7 @@
 
 - **Description**: I'm slowing down today. So I decided to read some articles around open source on [DEV](https://dev.to/). I highly recommended posts from [BekahHW](https://dev.to/bekahhw), [Open Sauced](https://dev.to/opensauced), and [Pradumna Saraf](https://dev.to/pradumnasaraf)!
 
-## Day 10
+## Day 11
 
 ### ✨ Contribution
 
@@ -188,7 +194,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 11
+## Day 12
 
 ### 📚 Learning
 
@@ -222,7 +228,7 @@
 
 - All of my pull requests for Virtual Coffee (4 of them!) got merged 🥳!
 
-## Day 12
+## Day 13
 
 ### 📚 Learning
 
@@ -261,7 +267,7 @@
   - [Relative links in markup files](https://github.blog/2013-01-31-relative-links-in-markup-files/)
 - **OpenSauced Highlight**: N/A
 
-## Day 13
+## Day 14
 
 ### 📚 Learning
 
@@ -278,7 +284,7 @@
 - **Tasks completed**:
   - Wrote a rough draft for the post.
 
-## Day 14
+## Day 15
 
 ### 🤝 Support
 
@@ -289,7 +295,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 15
+## Day 16
 
 ### 🤝 Support
 
@@ -298,7 +304,7 @@
   - Did final edits.
   - Published the [post](https://adiati.com/100daysofoss-recap-day-1-14).
 
-## Day 16
+## Day 17
 
 ### ✨ Self-Contribution
 
@@ -329,7 +335,7 @@
 
   - There are hunderds of issues and PRs. I tried to search what I'm looking for with the keywords "order", "sort", and "date", and I couldn't find anything related to what I search for. I hope I didn't make duplicate issue 😅. This is one of the reasons I often feel hesitate to create an issue on a repo that I'm not familiar with 😣. But, hey, I'm learning 😄.
 
-## Day 17
+## Day 18
 
 ### ✨ Contribution
 
@@ -346,7 +352,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 18
+## Day 19
 
 ### ✨ Contribution
 
