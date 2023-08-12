@@ -384,6 +384,15 @@
 - **Description**: I revisited my articles with OSS topics. I see that one of them has a room for improvements.
 - **Tasks completed**:
   - Edited and improved the article.
+
+## Day 21
+
+### 🤝 Support
+
+- **Description**: My goal is to do final edit of the article.
+- **Tasks completed**:
+  - Improved and final edited the article.
+  - Made a rough draft of a new article around OSS.
 - **Challenges faced**:
   - This is not a challenge but more of a deep thought. After improving the article, I ended up _almost_ rewrote everything. Now I'm thinking to post this as a brand new article. I guess it's time to apply to be an author at FCC — after Jessica sent me the form many moons ago 😁. If I got accepted, I will propose this article as my first post. Otherwise, I'll just edit the article on my blog and promote it.
 - **Resources used**:
