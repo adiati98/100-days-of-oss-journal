@@ -374,7 +374,8 @@
 
 - **Description**: My goal is to continue to edit the previous improved transcripts to follow new guidelines.
 - **Tasks completed**:
-  - Worked on the `6_5.srt`.
+  - Finished editing `6_5.srt`.
+  - Finished editing `8_5.srt`
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
