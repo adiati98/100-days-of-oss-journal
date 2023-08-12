@@ -365,3 +365,28 @@
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 20
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
+
+- **Description**: My goal is to continue to edit the previous improved transcripts to follow new guidelines.
+- **Tasks completed**:
+  - Worked on the `6_5.srt`.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**: I revisited my articles with OSS topics. I see that one of them has a room for improvements.
+- **Tasks completed**:
+  - Edited and improved the article.
+- **Challenges faced**:
+  - This is not a challenge but more of a deep thought. After improving the article, I ended up _almost_ rewrote everything. Now I'm thinking to post this as a brand new article. I guess it's time to apply to be an author at FCC — after Jessica sent me the form many moons ago 😁. If I got accepted, I will propose this article as my first post. Otherwise, I'll just edit the article on my blog and promote it.
+- **Resources used**:
+  - [How I Got Accepted as an Author at freeCodeCamp](https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/)
+  - [freeCodeCamp Publication Contributor Application](https://docs.google.com/forms/d/e/1FAIpQLSdvbv9jd7hlgIsHZWJGfnldLo2hLdlputw3hJ42JWpv3ctL1w/viewform)
+  - [The freeCodeCamp Publication Style Guide](https://www.freecodecamp.org/news/developer-news-style-guide/)
