@@ -2,6 +2,12 @@
 
 ## Day 1
 
+### 🤝 Support
+
+- **Description**: I didn't have time to explore anything today, so I [promoted the launching of #100DaysOfOSS on Twitter](https://twitter.com/AdiatiAyu/status/1683148749265158144?s=20) as my support for the challenge and to announce it.
+
+## Day 1
+
 ### ✨ Contribution
 
 #### [Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
