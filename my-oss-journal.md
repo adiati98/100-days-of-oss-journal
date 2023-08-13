@@ -400,3 +400,13 @@
   - [How I Got Accepted as an Author at freeCodeCamp](https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/)
   - [freeCodeCamp Publication Contributor Application](https://docs.google.com/forms/d/e/1FAIpQLSdvbv9jd7hlgIsHZWJGfnldLo2hLdlputw3hJ42JWpv3ctL1w/viewform)
   - [The freeCodeCamp Publication Style Guide](https://www.freecodecamp.org/news/developer-news-style-guide/)
+
+## Day 22
+
+### 🤝 Support
+
+- **Description**: My goal is to finish the draft of yesterday's created post and work on the bullet points of a post about communication that has been in my draft for almost a year 😅.
+- **Tasks completed**:
+  - Finished the draft of yesterday's created post.
+  - Half finished the draft of communication post.
+- **Challenges faced**: Sundays is always been house-chores day. So it's kinda hard of multitasking with writing that requires my full focus.
