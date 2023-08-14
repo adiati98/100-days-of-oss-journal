@@ -414,3 +414,18 @@
   - Finished the draft of yesterday's created post.
   - Half finished the draft of communication post.
 - **Challenges faced**: Sundays is always been house-chores day. So it's kinda hard of multitasking with writing that requires my full focus.
+
+## Day 23
+
+### 🤝 Support
+
+- **Description**: My goal is to finish the communcation post.
+- **Tasks completed**:
+  - Final edits, created cover pictures, and published the blog post, [How to Communicate Better in Open Source](https://adiati.com/how-to-communicate-better-in-open-source).
+- **Challenges faced**: I drafted this post for communication in remote work environment. But because I'm following the #100DaysOfOSS, I find this post suitable for communication in open source. So I made major adjustments and did more research in between a kid asking for full attention 😄.
+
+### 🎉 Wins
+
+- Finally I published the post that already sat in my draft for almost a year!
+- The post got onto [OpenSauced newsletter](https://news.opensauced.pizza/the-beauty-of-open-source/)!
+- My [PR for #100DaysOfOSS template for OpenSauced](https://github.com/open-sauced/100-days-of-oss-template/pull/8) got merged!
