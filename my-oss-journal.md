@@ -401,6 +401,10 @@
   - [freeCodeCamp Publication Contributor Application](https://docs.google.com/forms/d/e/1FAIpQLSdvbv9jd7hlgIsHZWJGfnldLo2hLdlputw3hJ42JWpv3ctL1w/viewform)
   - [The freeCodeCamp Publication Style Guide](https://www.freecodecamp.org/news/developer-news-style-guide/)
 
+### 🎉 Wins
+
+- I made it onto [Highlight Reel on OpenSauced](https://twitter.com/saucedopen/status/1690085171457060864?s=20), and I'm on the top!
+
 ## Day 22
 
 ### 🤝 Support
