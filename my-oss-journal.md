@@ -429,3 +429,20 @@
 - Finally I published the post that already sat in my draft for almost a year!
 - The post got onto [OpenSauced newsletter](https://news.opensauced.pizza/the-beauty-of-open-source/)!
 - My [PR for #100DaysOfOSS template for OpenSauced](https://github.com/open-sauced/100-days-of-oss-template/pull/8) got merged!
+
+## Day 24
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / podcast-transcripts](https://github.com/Virtual-Coffee/podcast-transcripts)
+
+- **Description**: The goal is to at least edit an episode of improved transcript to follow new guidelines.
+- **Tasks completed**:
+  - Finished editing `6_4.srt`.
+  - Finished editing `5_999.srt`.
+
+### 🤝 Support
+
+#### Twitter Space: Open Source Hour
+
+- **Description**: Attended a Twitter space hosted by OpenSauced
