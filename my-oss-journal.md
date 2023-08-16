@@ -446,3 +446,23 @@
 #### Twitter Space: Open Source Hour
 
 - **Description**: Attended a Twitter space hosted by OpenSauced
+
+## Day 25
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: We need to update several things on VC's website. So I will raise issues and work on the changes.
+- **Tasks completed**:
+  - Create an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/962) to update a Slack channel's name.
+  - Create an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/963) to update Sunday's Accountabilibuddies leader.
+  - Create an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/964) to update the Coffee Coordinator section in Paths to Leadership & Roles.
+- **Challenges faced**: I'm very exhausted today. So I only raised the issues. I will work on the changes and create PRs tomorrow.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**:
+  - I answered [a question on Twitter](https://twitter.com/BhavukThakur25/status/1691639991020175393?s=20) about how to start contributing to open source.
