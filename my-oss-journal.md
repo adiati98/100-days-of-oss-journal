@@ -224,7 +224,7 @@
 
   There are some other great resources dropped as reply in a tweet. But the tweet is now already deleted by the author. I'm too late 😖
 
-### 🎉 Wins
+### 🎉 Wins & Gratitudes
 
 - All of my pull requests for Virtual Coffee (4 of them!) got merged 🥳!
 
@@ -401,7 +401,7 @@
   - [freeCodeCamp Publication Contributor Application](https://docs.google.com/forms/d/e/1FAIpQLSdvbv9jd7hlgIsHZWJGfnldLo2hLdlputw3hJ42JWpv3ctL1w/viewform)
   - [The freeCodeCamp Publication Style Guide](https://www.freecodecamp.org/news/developer-news-style-guide/)
 
-### 🎉 Wins
+### 🎉 Wins & Gratitudes
 
 - I made it onto [Highlight Reel on OpenSauced](https://twitter.com/saucedopen/status/1690085171457060864?s=20), and I'm on the top!
 
@@ -424,7 +424,7 @@
   - Final edits, created cover pictures, and published the blog post, [How to Communicate Better in Open Source](https://adiati.com/how-to-communicate-better-in-open-source).
 - **Challenges faced**: I drafted this post for communication in remote work environment. But because I'm following the #100DaysOfOSS, I find this post suitable for communication in open source. So I made major adjustments and did more research in between a kid asking for full attention 😄.
 
-### 🎉 Wins
+### 🎉 Wins & Gratitudes
 
 - Finally I published the post that already sat in my draft for almost a year!
 - The post got onto [OpenSauced newsletter](https://news.opensauced.pizza/the-beauty-of-open-source/)!
@@ -470,3 +470,30 @@
 ## Day 26
 
 ### ⛔ Take a Break
+
+## Day 27
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: We have some content that need to be updated at Virtual Coffee's website. My goal is to create issues, work on them, and make pull requests.
+- **Tasks completed**:
+  - Created [an issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/962) to update a Slack channel's name.
+  - Created [an issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/963) to change the leader of a Coffee Table Group.
+  - Created [an issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/964) to update a volunteer role's details.
+  - Made [a pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/965) to update the Slack channel's name and the leader of the Coffee Table Group.
+  - Made [a pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/967) to update the volunteer role's details.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**: I want to write a blog post to recap my #100DaysOfOSS journey every other week. And this week is the week. My goal is to write a post to recap day 15-27.
+- **Tasks completed**:
+  - Wrote and published [the post](https://adiati.com/100daysofoss-recap-day-15-27).
+
+### 🎉 Wins & Gratitudes
+
+- My [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/967) to update a volunteer role's details got merged!
