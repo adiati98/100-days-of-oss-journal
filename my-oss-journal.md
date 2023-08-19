@@ -318,7 +318,7 @@
 - **Resources used**:
   - [Effectively Highlight Your Contributions — Open Sauced Docs](https://github.com/open-sauced/intro/blob/main/06-the-secret-sauce.md#effectively-highlight-your-contributions)
 
-🤝 Support
+### 🤝 Support
 
 #### Twitter Space: Open Source Hour
 
@@ -466,3 +466,7 @@
 
 - **Description**:
   - I answered [a question on Twitter](https://twitter.com/BhavukThakur25/status/1691639991020175393?s=20) about how to start contributing to open source.
+
+## Day 26
+
+### ⛔ Take a Break
