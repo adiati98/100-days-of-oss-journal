@@ -1,12 +1,12 @@
 # 100DaysOfOSS Progress Tracker
 
-## Day 1
+## Day 1 <br> _23/07/2023_
 
 ### 🤝 Support
 
 - **Description**: I didn't have time to explore anything today, so I [promoted the launching of #100DaysOfOSS on Twitter](https://twitter.com/AdiatiAyu/status/1683148749265158144?s=20) as my support for the challenge and to announce it.
 
-## Day 2
+## Day 2 <br> _24/07/2023_
 
 ### ✨ Contribution
 
@@ -20,7 +20,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 3
+## Day 3 <br> _25/07/2023_
 
 ### 🤝 Support
 
@@ -28,7 +28,7 @@
 
 - **Description**: Attended the [Twitter space hosted by OpenSauced](https://twitter.com/saucedopen/status/1686383947452915713?s=20).
 
-## Day 4
+## Day 4 <br> _26/07/2023_
 
 ### ✨ Contribution
 
@@ -41,7 +41,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 5
+## Day 5 <br> _27/07/2023_
 
 ### ✨ Contribution
 
@@ -64,7 +64,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 6
+## Day 6 <br> _28/07/2023_
 
 ### ✨ Contribution
 
@@ -87,7 +87,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 7
+## Day 7 <br> _29/07/2023_
 
 ### ✨ Contribution
 
@@ -108,7 +108,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 8
+## Day 8 <br> _30/07/2023_
 
 ### ✨ Contribution
 
@@ -136,7 +136,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 9
+## Day 9 <br> _31/07/2023_
 
 ### ✨ Contribution
 
@@ -151,7 +151,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 10
+## Day 10 <br> _01/08/2023_
 
 ### ✨ Contribution
 
@@ -169,7 +169,7 @@
 
 - **Description**: I'm slowing down today. So I decided to read some articles around open source on [DEV](https://dev.to/). I highly recommended posts from [BekahHW](https://dev.to/bekahhw), [Open Sauced](https://dev.to/opensauced), and [Pradumna Saraf](https://dev.to/pradumnasaraf)!
 
-## Day 11
+## Day 11 <br> _02/08/2023_
 
 ### ✨ Contribution
 
@@ -194,7 +194,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 12
+## Day 12 <br> _03/08/2023_
 
 ### 📚 Learning
 
@@ -224,11 +224,11 @@
 
   There are some other great resources dropped as reply in a tweet. But the tweet is now already deleted by the author. I'm too late 😖
 
-### 🎉 Wins
+### 🎉 Wins & Gratitudes
 
 - All of my pull requests for Virtual Coffee (4 of them!) got merged 🥳!
 
-## Day 13
+## Day 13 <br> _04/08/2023_
 
 ### 📚 Learning
 
@@ -267,7 +267,7 @@
   - [Relative links in markup files](https://github.blog/2013-01-31-relative-links-in-markup-files/)
 - **OpenSauced Highlight**: N/A
 
-## Day 14
+## Day 14 <br> _05/08/2023_
 
 ### 📚 Learning
 
@@ -284,7 +284,7 @@
 - **Tasks completed**:
   - Wrote a rough draft for the post.
 
-## Day 15
+## Day 15 <br> _06/08/2023_
 
 ### 🤝 Support
 
@@ -295,7 +295,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 16
+## Day 16 <br> _07/08/2023_
 
 ### 🤝 Support
 
@@ -304,7 +304,7 @@
   - Did final edits.
   - Published the [post](https://adiati.com/100daysofoss-recap-day-1-14).
 
-## Day 17
+## Day 17 <br> _08/08/2023_
 
 ### ✨ Self-Contribution
 
@@ -335,7 +335,7 @@
 
   - There are hunderds of issues and PRs. I tried to search what I'm looking for with the keywords "order", "sort", and "date", and I couldn't find anything related to what I search for. I hope I didn't make duplicate issue 😅. This is one of the reasons I often feel hesitate to create an issue on a repo that I'm not familiar with 😣. But, hey, I'm learning 😄.
 
-## Day 18
+## Day 18 <br> _09/08/2023_
 
 ### ✨ Contribution
 
@@ -352,7 +352,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 19
+## Day 19 <br> _10/08/2023_
 
 ### ✨ Contribution
 
@@ -366,7 +366,7 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 20
+## Day 20 <br> _11/08/2023_
 
 ### ✨ Contribution
 
@@ -386,7 +386,7 @@
 - **Tasks completed**:
   - Edited and improved the article.
 
-## Day 21
+## Day 21 <br> _12/08/2023_
 
 ### 🤝 Support
 
@@ -401,11 +401,11 @@
   - [freeCodeCamp Publication Contributor Application](https://docs.google.com/forms/d/e/1FAIpQLSdvbv9jd7hlgIsHZWJGfnldLo2hLdlputw3hJ42JWpv3ctL1w/viewform)
   - [The freeCodeCamp Publication Style Guide](https://www.freecodecamp.org/news/developer-news-style-guide/)
 
-### 🎉 Wins
+### 🎉 Wins & Gratitudes
 
 - I made it onto [Highlight Reel on OpenSauced](https://twitter.com/saucedopen/status/1690085171457060864?s=20), and I'm on the top!
 
-## Day 22
+## Day 22 <br> _13/08/2023_
 
 ### 🤝 Support
 
@@ -415,7 +415,7 @@
   - Half finished the draft of communication post.
 - **Challenges faced**: Sundays is always been house-chores day. So it's kinda hard of multitasking with writing that requires my full focus.
 
-## Day 23
+## Day 23 <br> _14/08/2023_
 
 ### 🤝 Support
 
@@ -424,13 +424,13 @@
   - Final edits, created cover pictures, and published the blog post, [How to Communicate Better in Open Source](https://adiati.com/how-to-communicate-better-in-open-source).
 - **Challenges faced**: I drafted this post for communication in remote work environment. But because I'm following the #100DaysOfOSS, I find this post suitable for communication in open source. So I made major adjustments and did more research in between a kid asking for full attention 😄.
 
-### 🎉 Wins
+### 🎉 Wins & Gratitudes
 
 - Finally I published the post that already sat in my draft for almost a year!
 - The post got onto [OpenSauced newsletter](https://news.opensauced.pizza/the-beauty-of-open-source/)!
 - My [PR for #100DaysOfOSS template for OpenSauced](https://github.com/open-sauced/100-days-of-oss-template/pull/8) got merged!
 
-## Day 24
+## Day 24 <br> _15/08/2023_
 
 ### ✨ Contribution
 
@@ -447,7 +447,7 @@
 
 - **Description**: Attended a Twitter space hosted by OpenSauced
 
-## Day 25
+## Day 25 <br> _16/08/2023_
 
 ### ✨ Contribution
 
@@ -467,6 +467,33 @@
 - **Description**:
   - I answered [a question on Twitter](https://twitter.com/BhavukThakur25/status/1691639991020175393?s=20) about how to start contributing to open source.
 
-## Day 26
+## Day 26 <br> _17/08/2023_
 
 ### ⛔ Take a Break
+
+## Day 27 <br> _18/08/2023_
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: We have some content that need to be updated at Virtual Coffee's website. My goal is to create issues, work on them, and make pull requests.
+- **Tasks completed**:
+  - Created [an issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/962) to update a Slack channel's name.
+  - Created [an issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/963) to change the leader of a Coffee Table Group.
+  - Created [an issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/964) to update a volunteer role's details.
+  - Made [a pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/965) to update the Slack channel's name and the leader of the Coffee Table Group.
+  - Made [a pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/967) to update the volunteer role's details.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**: I want to write a blog post to recap my #100DaysOfOSS journey every other week. And this week is the week. My goal is to write a post to recap day 15-27.
+- **Tasks completed**:
+  - Wrote and published [the post](https://adiati.com/100daysofoss-recap-day-15-27).
+
+### 🎉 Wins & Gratitudes
+
+- My [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/967) to update a volunteer role's details got merged!
