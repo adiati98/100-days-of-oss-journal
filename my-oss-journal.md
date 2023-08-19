@@ -471,6 +471,11 @@
 
 ### ⛔ Take a Break
 
+### 🎉 Wins & Gratitudes
+
+- I got the CodeNewbie badge on DEV from the "[How to Communicate Better in Open Source](https://adiati.com/how-to-communicate-better-in-open-source)" article!
+- The article got on to the "[Top Featured CodeNewbie Posts (8/17/23)](https://dev.to/codenewbieteam/top-featured-codenewbie-posts-81723-48i4)"!
+
 ## Day 27 <br> _18/08/2023_
 
 ### ✨ Contribution
