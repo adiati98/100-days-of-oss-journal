@@ -2,7 +2,7 @@
 
 # 100DaysOfOSS Progress Tracker
 
-## Day X
+## Day X <br> _DD/MM/YYYY_
 
 <!-- Create new headings for each category -->
 
