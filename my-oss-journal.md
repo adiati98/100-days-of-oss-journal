@@ -502,3 +502,17 @@
 ### 🎉 Wins & Gratitudes
 
 - My [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/967) to update a volunteer role's details got merged!
+
+## Day 28 <br> _19/08/2023_
+
+<!-- Create new headings for each category -->
+
+### 📚 Learning
+
+- **Description**: I want to take things slow this weekend.
+- **Tasks completed**:
+  - Read some articles related to open source on DEV.
+- **Recommended articles**:
+  - [Getting Started in a New Codebase — Abbey Perini](https://dev.to/abbeyperini/getting-started-in-a-new-codebase-e7b)
+  - [The Power of Git: A Guide to Collaborative Version Control — BekahHW](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6)
+  - [The (Detailed & Creative) Playbook for Getting More GitHub Stars — Zevi Reinitz](https://dev.to/livecycle/the-detailed-creative-playbook-for-more-github-stars-5fo5)
