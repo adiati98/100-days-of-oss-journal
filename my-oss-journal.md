@@ -536,3 +536,23 @@
 - **Description**: As we're approaching September, the Monthly Challenges Team in Virtual Coffee is preparing for our Preptember challenge; a challenge for our members to prepare themselves for Hacktoberfest in October.
 - **Tasks completed**:
   - Gave some ideas for the Preptember challenge.
+
+## Day 31 <br> _22/08/2023_
+
+✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: Dominic pointed out that there are broken links in our Monthly Challenges page on the website. It happens because we have new path for our guide. So I plan to fix this.
+- **Tasks completed**:
+  - Created an [issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/969) to fix the broken links.
+  - Started working on the fix.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+#### Twitter Space: #100DaysOfOSS
+
+- **Description**: I attended the Twitter space hosted by OpenSauced. And there were so many great insights from Jerome Hardaway! 🤩
