@@ -511,6 +511,7 @@
 - **Tasks completed**:
   - Read some articles related to open source on DEV.
 - **Recommended articles**:
+
   - [Getting Started in a New Codebase — Abbey Perini](https://dev.to/abbeyperini/getting-started-in-a-new-codebase-e7b)
   - [The Power of Git: A Guide to Collaborative Version Control — BekahHW](https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6)
   - [The (Detailed & Creative) Playbook for Getting More GitHub Stars — Zevi Reinitz](https://dev.to/livecycle/the-detailed-creative-playbook-for-more-github-stars-5fo5)
@@ -523,4 +524,15 @@
 - **Tasks completed**:
   - Watched some open source videos on YouTube from [Eddie Jaoude](https://www.youtube.com/@eddiejaoude).
 - **Recommended video**:
+
   - [Complete Guide to Open Source - How to Contribute](https://youtu.be/yzeVMecydCE?feature=shared)
+
+  ## Day 30 <br> _21/08/2023_
+
+### ✨ Collaboration
+
+#### Virtual Coffee
+
+- **Description**: As we're approaching September, the Monthly Challenges Team in Virtual Coffee is preparing for our Preptember challenge; a challenge for our members to prepare themselves for Hacktoberfest in October.
+- **Tasks completed**:
+  - Gave some ideas for the Preptember challenge.

@@ -32,3 +32,4 @@
 - [Day 27](my-oss-journal.md#day-27)
 - [Day 28](my-oss-journal.md#day-28)
 - [Day 29](my-oss-journal.md#day-29)
+- [Day 30](my-oss-journal.md#day-30)
