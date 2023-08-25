@@ -556,3 +556,22 @@
 #### Twitter Space: #100DaysOfOSS
 
 - **Description**: I attended the Twitter space hosted by OpenSauced. And there were so many great insights from Jerome Hardaway! 🤩
+
+## Day 32 <br> _23/08/2023_
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: I will start fixing the broken links.
+- **Tasks completed**:
+  - Working on fixing links.
+- **Challenges faced**: Okay. So this is quite mopre work than I originally thought. Because now I see that I can fix some wordings and make the pages looks consistent 😅.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+#### Pizza Bake Off — Twitch stream hosted by Nick Taylor
+
+- **Description**: I attended this [awesome stream](https://www.youtube.com/watch?v=b4y4vhUlTZI) from Nick with Brian and John from OpenSauced! 🙌
