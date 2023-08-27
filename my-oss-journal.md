@@ -588,3 +588,28 @@
 - **Challenges faced**: Whenever I run `pnpm dev`, my computer becomes super slow. And as usual, after several times of changes, the `pnpm` just closing down by itself. It's frustrating 😣. So I decided to just _blindly_ fix things (without previewing on the localhost). Crossing fingers!
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 34 <br> _25/08/2023_
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: I will continue fixing the broken links and some wordings in the monthly challenges pages.
+- **Tasks completed**:
+  - Working on fixing links.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Collaboration
+
+- **Description**: I will have some discussions around OSS with Dominic on Zoom.
+- **Tasks completed**:
+  - Discussed about next month — Preptember — challenge at VC.
+  - Tried out a VSCode extention; [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+  - Discussed about licenses in open source.
+- **Some thoughts**:
+  - I still don't quite get how the CodeTour works. Although I think this would be very useful for big codebase like VCIO. I will try it again next time.
+- **Resources used**:
+  - [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
