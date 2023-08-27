@@ -623,3 +623,32 @@
 ### ⛔ Take a Break
 
 _I'm taking a computer free day_
+
+## Day 36 <br> _27/08/2023_
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: Continue with fixing VC docs.
+- **Tasks completed**:
+  - Working on fixing links.
+- **Challenges faced**:
+
+  Remembering that it's only a few days away from September, I don't think I will finish fixing the docs on time. And I need the September & October challenges to be fixed so they can be up for Preptember and Hacktoberfest.
+
+  The problem is, if I create new branch just to fix and push the Sept & Oct pages, all commits that I made in the current branch will be included in this push. The reason is because I haven't pushed the current changes to the remote repo. Deleting current branch is not an option because _I already finished fixing 17 pages out of 29_. I don't want to throw them away and start from scratch.
+
+  I couldn't find any solution to push only the commits in the new branch and not including the commits in the current branch. So, for now, I copy and pasted all files that I've fixed and saved them in another workspace, then I deleted the current branch. I will copy and paste them when I work on them. I'm gonna work on the Sept and Oct pages tomorrow to get them up and running before Preptember.
+
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**: To follow up the discussion with Dominic, I took initiative to create a (private) repo to propose our ideas to the maintainers.
+- **Tasks completed**:
+  - Created a (private) repo and explain our ideas in the repo.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
