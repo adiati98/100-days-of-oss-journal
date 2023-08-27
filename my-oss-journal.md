@@ -566,7 +566,7 @@
 - **Description**: I will start fixing the broken links.
 - **Tasks completed**:
   - Working on fixing links.
-- **Challenges faced**: Okay. So this is quite mopre work than I originally thought. Because now I see that I can fix some wordings and make the pages looks consistent 😅.
+- **Challenges faced**: Okay. So this is quite more work than I originally thought. Because now I see that I can fix some wordings and make the pages looks consistent 😅.
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
@@ -575,3 +575,16 @@
 #### Pizza Bake Off — Twitch stream hosted by Nick Taylor
 
 - **Description**: I attended this [awesome stream](https://www.youtube.com/watch?v=b4y4vhUlTZI) from Nick with Brian and John from OpenSauced! 🙌
+
+## Day 33 <br> _24/08/2023_
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: I will continue fixing the broken links.
+- **Tasks completed**:
+  - Working on fixing links.
+- **Challenges faced**: Whenever I run `pnpm dev`, my computer becomes super slow. And as usual, after several times of changes, the `pnpm` just closing down by itself. It's frustrating 😣. So I decided to just _blindly_ fix things (without previewing on the localhost). Crossing fingers!
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
