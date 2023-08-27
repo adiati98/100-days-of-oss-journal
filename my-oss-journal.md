@@ -617,3 +617,9 @@
   - I still don't quite get how the CodeTour works. Although I think this would be very useful for big codebase like VCIO. I will try it again next time.
 - **Resources used**:
   - [CodeTour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+
+## Day 35 <br> _26/08/2023_
+
+### ⛔ Take a Break
+
+_I'm taking a computer free day_
