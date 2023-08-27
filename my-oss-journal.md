@@ -589,6 +589,10 @@
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
+### 🎉 Wins & Gratitudes
+
+- My [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/965) for Virtual Coffee got merged!
+
 ## Day 34 <br> _25/08/2023_
 
 ### ✨ Contribution
