@@ -1,10 +1,9 @@
 ---
 name: Update Day and TOC
-about: 'Add #100DaysOfOSS progress of the day and update the Table of Content'
-title: 'CHORE: Update to Day X of #100DaysOfOSS'
-labels: ''
+about: "Add #100DaysOfOSS progress of the day and update the Table of Content"
+title: "CHORE: Update to Day X of #100DaysOfOSS"
+labels: ""
 assignees: adiati98
-
 ---
 
 ## Description
@@ -17,7 +16,7 @@ The progress of #100DaysOfOSS must be updated by writing down the open source-re
 
 - Write the tasks done in `day X` in the `my-100-days-oss-journal.md`.
 - Update the Table of Contents in the `table-of-contents.md`.
-  
+
   ```markdown
-  [Day X](my-oss-journal.md#day-x)
+  [Day X](my-oss-journal.md#day-x--ddmmyyyy)
   ```
