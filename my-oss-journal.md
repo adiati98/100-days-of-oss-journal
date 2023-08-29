@@ -644,7 +644,7 @@ _I'm taking a computer free day_
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-### 🤝 Support
+### ✨ Collaboration
 
 - **Description**: To follow up the discussion with Dominic, I took initiative to create a (private) repo to propose our ideas to the maintainers.
 - **Tasks completed**:
@@ -652,3 +652,26 @@ _I'm taking a computer free day_
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 28 <br> _28/08/2023_
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: My goal is to finish fixing the September and October challenge pages so we can reuse them for the upcoming challenges.
+- **Tasks completed**:
+  - Finished the fix and created a [pull request](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/973).
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**:
+
+  I attended "Intro to OSS" workshop by OpenSauced hosted by Bekah. It was great! And I learned more about OpenSauced Highlight.
+
+### 🎉 Wins & Gratitudes
+
+I attended my **_first-ever workshop_** today!
