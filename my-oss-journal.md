@@ -653,7 +653,7 @@ _I'm taking a computer free day_
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
 
-## Day 28 <br> _28/08/2023_
+## Day 37 <br> _28/08/2023_
 
 ### ✨ Contribution
 
@@ -675,3 +675,20 @@ _I'm taking a computer free day_
 ### 🎉 Wins & Gratitudes
 
 I attended my **_first-ever workshop_** today!
+
+## Day 38 <br> _29/08/2023_
+
+<!-- Create new headings for each category -->
+
+### ✨ Collaboration
+
+- **Description**: We want to explore our ideas before creating an actual repo. So I created a (private) draft repo. I will later on try it out and see if it's ready for contribution.
+- **Tasks completed**:
+  - Created a branch for draft repo that consists of:
+    - README.md — including the steps to contribute
+    - CONTRIBUTING.md — adjusted the VC's CONTRIBUTING.md
+    - Pull request template
+    - Two markdown files with some descriptions and examples in them.
+- **Thoughts**:
+
+  There's a chance that we won't use this repo. But I learned so much from this process!
