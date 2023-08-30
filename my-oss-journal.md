@@ -692,3 +692,21 @@ I attended my **_first-ever workshop_** today!
 - **Thoughts**:
 
   There's a chance that we won't use this repo. But I learned so much from this process!
+
+## Day 39 <br> _30/08/2023_
+
+✨ Collaboration
+
+- **Description**: After a discussion with the team, I look around GitHub to see what should be included in `README.md` and `CONTRIBUTING.md` files. After some research, I found a few repos that I think make sense for our repo.
+- **Tasks completed**:
+  - Revised the draft repo for Preptember.
+
+### 🤝 Support
+
+- **Description**: I have a blog post's draft that has been sitting for more than a month. I wanted to publish this to a tech blogging platform, but I haven't heard anything from them for almost a month. So I decided to publish it on my website anyway.
+- **Tasks completed**:
+  - Edited and [published the blog post](https://adiati.com/open-source-and-git-glossary).
+
+### 🎉 Wins & Gratitudes
+
+- My [PR](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/973) for Virtual Coffee got merged!
