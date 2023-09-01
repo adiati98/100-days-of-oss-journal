@@ -710,3 +710,27 @@ I attended my **_first-ever workshop_** today!
 ### 🎉 Wins & Gratitudes
 
 - My [PR](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/973) for Virtual Coffee got merged!
+
+## Day 40 <br> _01/09/2023_
+
+### ✨ Contribution
+
+#### [open-sauced / guestbook](https://github.com/open-sauced/guestbook)
+
+- **Description**:
+- During the "Intro to OSS" workshop with OpenSauced, we saw some potential issues. So I wanted to reproduce the process to add contributor to spot the problem and raise an issue if necessary.
+- I read through the README and spot a recommendation part that we can improve.
+- **Tasks completed**:
+  - Reproduced the process to add contributor.
+  - Updated the maintainer (Bekah) that depends on which branch they want contributors to add their profile, there is no necessity to raise an issue.
+  - Created [an issue](https://github.com/open-sauced/guestbook/issues/81) to improve the docs.
+- **Challenges faced**: [Mention any challenges you encountered]
+- **Resources used**: [Include any helpful resources or documentation links]
+- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+
+### 🤝 Support
+
+- **Description**: Had a discussion with Dominic to prepare the draft repo for Preptember.
+- **Tasks completed**:
+  - Final edited the draft repo
+- **Thoughts**: This whole process gave me ideas for a blog post. So I drafted the post.
