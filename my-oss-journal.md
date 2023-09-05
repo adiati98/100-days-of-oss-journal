@@ -734,3 +734,15 @@ I attended my **_first-ever workshop_** today!
 - **Tasks completed**:
   - Final edited the draft repo
 - **Thoughts**: This whole process gave me ideas for a blog post. So I drafted the post.
+
+## Day 41 <br> _01/09/2023_
+
+### ⛔ Take a Break
+
+## Day 42 <br> _02/09/2023_
+
+### ⛔ Take a Break
+
+## Day 43 <br> _03/09/2023_
+
+### ⛔ Take a Break
