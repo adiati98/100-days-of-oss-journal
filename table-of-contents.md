@@ -43,3 +43,6 @@
 - [Day 38](my-oss-journal.md#day-38--29082023)
 - [Day 39](my-oss-journal.md#day-39--30082023)
 - [Day 40](my-oss-journal.md#day-40--31082023)
+- [Day 40](my-oss-journal.md#day-41--01092023)
+- [Day 40](my-oss-journal.md#day-42--02092023)
+- [Day 40](my-oss-journal.md#day-43--03092023)
