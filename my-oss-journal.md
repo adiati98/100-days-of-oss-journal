@@ -724,9 +724,9 @@ I attended my **_first-ever workshop_** today!
   - Reproduced the process to add contributor.
   - Updated the maintainer (Bekah) that depends on which branch they want contributors to add their profile, there is no necessity to raise an issue.
   - Created [an issue](https://github.com/open-sauced/guestbook/issues/81) to improve the docs.
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
 
 ### 🤝 Support
 
@@ -746,3 +746,66 @@ I attended my **_first-ever workshop_** today!
 ## Day 43 <br> _03/09/2023_
 
 ### ⛔ Take a Break
+
+## Day 44 <br> _04/09/2023_
+
+<!-- Create new headings for each category -->
+
+### ✨ Contribution & Collaboration
+
+<!-- Create new headings for different project -->
+
+#### TBA repository
+
+- **Description**: We finally got the green light to launch the repository for VC Preptember! I have to prepare everything so we can get it live ASAP!
+- **Tasks completed**:
+  - Final edited the draft repo and moved everything to the new VC repo.
+  - Dominic helped proofread and fixed some wordings.
+- **Challenges faced**:
+
+  Definitely time! 😅 We got approval just before dinner time at CEST, and today is September 4th already 😆
+
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Contribution & Collaboration
+
+<!-- Create new headings for different project -->
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: As we got approval to launch the Preptember repo, we need to change and update the current monthly challenge on the website.
+- **Tasks completed**:
+  - Changed the challenge and updated the content of Preptember challenge.
+  - Created [a PR](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/978) to update the challenge on VC website.
+- **Challenges faced**:
+
+  My brain stopped here and there because it was past midnight. But I'm super grateful for Dominic for being there and helping me out asynchrounously via Slack to update the page! Teamwork FTW!!! 🙌
+
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Contribution
+
+#### [open-sauced / guestbook](https://github.com/open-sauced/guestbook)
+
+- **Description**: My goal is to work on the issue to update the README with instructions to work on changes by manually editing the file.
+- **Tasks completed**:
+  - Finished with the update locally.
+- **Challenges faced**: I have a question that hasn't been answered. So I'll hold pushing the changes for a couple of days. If still no response, I'll create a draft PR for this.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Contribution
+
+#### [open-sauced / app](https://github.com/open-sauced/app)
+
+- **Description**: I took [the issue](https://github.com/open-sauced/app/issues/56) to implement dark mode. My goal for today is to setup the local environment.
+- **Tasks completed**:
+  - Setup the local environment — install dependencies
+- **Challenges faced**:
+  - The installation process got canceled for the first time. From the error message, I found out that I have `node` version 19 installed in my computer while this project is using version 18.17.0 or >=20.5.0. So I had to uninstall and reinstall `node` version 18.17.0.
+  - It took a while to install all dependencies (almost 20 min!). I suspect this is Windows thing. 😆
+  - When I opened the `localhost:3000`, I only got pizza icon. I looked up in the README, there is no instruction which path I should navigate to. So I took initiative to go to `/insights`. And it worked! I will create an issue for this.
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
