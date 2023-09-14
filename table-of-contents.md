@@ -53,4 +53,6 @@
 - [Day 48](my-oss-journal.md#day-48--08092023)
 - [Day 49](my-oss-journal.md#day-49--09092023)
 - [Day 50](my-oss-journal.md#day-50--10092023)
+- [Day 51](my-oss-journal.md#day-51--11092023)
 - [Day 52](my-oss-journal.md#day-52--12092023)
+- [Day 53](my-oss-journal.md#day-53--13092023)
