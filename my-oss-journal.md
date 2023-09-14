@@ -960,6 +960,16 @@ I attended my **_first-ever workshop_** today!
 
 - **Description**: I did many supports today! 🥰
 - **Tasks completed**:
+
   - Continued writing the draft for FCC.
   - Recorded an episode of Virtual Coffee podcast about Preptember and Hacktoberfest with Dominic, Bekah & Dan.
   - Attended OpenSauced's Twitter space.
+
+  ## Day 53 <br> _13/09/2023_
+
+### 🤝 Support
+
+- **Description**: My goal is to finish the draft post and submit it to the editorial team.
+- **Tasks completed**:
+  - Proofread and final edited the draft for FCC.
+  - Submitted the draft to the team.
