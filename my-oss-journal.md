@@ -928,3 +928,28 @@ I attended my **_first-ever workshop_** today!
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 51 <br> _11/09/2023_
+
+### ✨ Contribution
+
+#### [open-sauced / guestbook](https://github.com/open-sauced/guestbook)
+
+- **Description**: I got respons for my question. My goal is to work on this.
+- **Tasks completed**:
+  - Worked on and pushed the changes.
+  - Resolved merge conflict.
+- **Challenges faced**: N/A
+- **Resources used**:
+  - [VC OSS resources — Resolve Merge Conflicts](https://virtualcoffee.io/resources/developer-resources/open-source/git-101#resolve-merge-conflicts)
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**: I completely forgot to update my #100DaysOfOSS recap last week. So I will write the article and publish it.
+- **Tasks completed**:
+  - Wrote and published [#100DaysOfOSS Recap: Day 28-50](https://adiati.com/100daysofoss-recap-day-28-50)
+
+### 🎉 Wins & Gratitudes
+
+- The [#100DaysOfOSS Recap: Day 28-50](https://dev.to/adiatiayu/100daysofoss-recap-day-28-50-l8h) got onto [OpenSauced newsletter](https://news.opensauced.pizza/moneyball-for-engineers/)!
