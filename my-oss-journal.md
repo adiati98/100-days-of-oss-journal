@@ -755,7 +755,7 @@ I attended my **_first-ever workshop_** today!
 
 <!-- Create new headings for different project -->
 
-#### TBA repository
+#### [Virtual-Coffee/ vc-preptember](https://github.com/Virtual-Coffee/vc-preptember)
 
 - **Description**: We finally got the green light to launch the repository for VC Preptember! I have to prepare everything so we can get it live ASAP!
 - **Tasks completed**:
@@ -809,3 +809,29 @@ I attended my **_first-ever workshop_** today!
   - When I opened the `localhost:3000`, I only got pizza icon. I looked up in the README, there is no instruction which path I should navigate to. So I took initiative to go to `/insights`. And it worked! I will create an issue for this.
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 45 <br> _05/09/2023_
+
+### ✨ Collaboration
+
+- **Description**: Me and Dominic did the final preparation for the Preptember.
+- **Tasks completed**:
+  - Made sure that the [VC-Preptember](https://github.com/Virtual-Coffee/vc-preptember) repo is ready for contribution.
+  - Dan made me and Dominic as maintainers of the repo.
+  - Final discussion about maintainer aspects.
+- **Challenges faced**: N/A
+
+### ✨ Contribution
+
+#### [open-sauced / guestbook](https://github.com/open-sauced/guestbook)
+
+- **Description**: I got answer for my question. So my goal today is to work on adding a step for creating a new branch.
+- **Tasks completed**:
+  - Added the step to create a new branch.
+- **Challenges faced**: N/A
+
+### 🤝 Support
+
+#### Twitter Space: Open Source Hour
+
+- **Description**: Attended a Twitter space hosted by OpenSauced

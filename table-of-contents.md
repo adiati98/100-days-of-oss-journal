@@ -47,3 +47,4 @@
 - [Day 42](my-oss-journal.md#day-42--02092023)
 - [Day 43](my-oss-journal.md#day-43--03092023)
 - [Day 44](my-oss-journal.md#day-44--04092023)
+- [Day 45](my-oss-journal.md#day-45--05092023)
