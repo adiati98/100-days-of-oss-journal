@@ -835,3 +835,32 @@ I attended my **_first-ever workshop_** today!
 #### Twitter Space: Open Source Hour
 
 - **Description**: Attended a Twitter space hosted by OpenSauced
+
+### 🎉 Wins & Gratitudes
+
+- My [PR](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/978) to add September monthly challenge to the website at Virtual Coffee got merged!
+
+## Day 46 <br> _06/09/2023_
+
+### ✨ Contribution
+
+#### [open-sauced / guestbook](https://github.com/open-sauced/guestbook)
+
+- **Description**: My goal is to finish with the docs update and create a PR.
+- **Tasks completed**:
+  - Finished updating the docs.
+  - Created a [PR](https://github.com/open-sauced/guestbook/pull/82).
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: VC newsletter dropped in the email. So I will create an issue to add it to the website.
+- **Tasks completed**:
+  - Created [an issue](https://github.com/Virtual-Coffee/virtualcoffee.io/issues/979) to add the September 2023 newsletter to the website.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
