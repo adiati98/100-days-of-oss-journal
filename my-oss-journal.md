@@ -885,3 +885,23 @@ I attended my **_first-ever workshop_** today!
 - **Tasks completed**:
   - I drafted and announced the repo in our #monthly-challenge channel in Slack.
   - Dominic made a walkthrough video for the repo.
+
+## Day 48 <br> _08/09/2023_
+
+### ✨ Contribution & Maintain
+
+#### [Virtual-Coffee/ vc-preptember](https://github.com/Virtual-Coffee/vc-preptember)
+
+- **Description**: See "Tasks completed".
+- **Tasks completed**:
+  - Reviewed and merged a PR.
+  - Created [a PR](https://github.com/Virtual-Coffee/vc-preptember/pull/5) to add VC-verified repo.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🤝 Support
+
+- **Description**: I have an idea of a blog post about open source and I'm thinking to later on publish this at freeCodeCamp.
+- **Tasks completed**:
+  - Outlined the article.
