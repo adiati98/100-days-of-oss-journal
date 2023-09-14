@@ -864,3 +864,24 @@ I attended my **_first-ever workshop_** today!
 - **Challenges faced**: N/A
 - **Resources used**: N/A
 - **OpenSauced Highlight**: N/A
+
+## Day 47 <br> _07/09/2023_
+
+### ✨ Contribution
+
+#### [Virtual-Coffee / virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+
+- **Description**: My goal is to work on adding the newsletter and create the PR.
+- **Tasks completed**:
+  - Added the September 2023 newsletter.
+  - Created [a PR](https://github.com/Virtual-Coffee/virtualcoffee.io/pull/980).
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### ✨ Collaboration & 🤝 Support
+
+- **Description**: We want to do special announce of the Preptember repo to our members.
+- **Tasks completed**:
+  - I drafted and announced the repo in our #monthly-challenge channel in Slack.
+  - Dominic made a walkthrough video for the repo.
