@@ -953,3 +953,13 @@ I attended my **_first-ever workshop_** today!
 ### 🎉 Wins & Gratitudes
 
 - The [#100DaysOfOSS Recap: Day 28-50](https://dev.to/adiatiayu/100daysofoss-recap-day-28-50-l8h) got onto [OpenSauced newsletter](https://news.opensauced.pizza/moneyball-for-engineers/)!
+
+## Day 52 <br> _12/09/2023_
+
+### 🤝 Support
+
+- **Description**: I did many supports today! 🥰
+- **Tasks completed**:
+  - Continued writing the draft for FCC.
+  - Recorded an episode of Virtual Coffee podcast about Preptember and Hacktoberfest with Dominic, Bekah & Dan.
+  - Attended OpenSauced's Twitter space.
