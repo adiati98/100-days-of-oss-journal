@@ -973,3 +973,21 @@ I attended my **_first-ever workshop_** today!
 - **Tasks completed**:
   - Proofread and final edited the draft for FCC.
   - Submitted the draft to the team.
+
+## Day 54 <br> _14/09/2023_
+
+### ✨ Maintain
+
+#### [Virtual-Coffee/ vc-preptember](https://github.com/Virtual-Coffee/vc-preptember)
+
+- **Description**: Maintainers duty at vc-preptember repo.
+- **Tasks completed**:
+  - Reviewed and merged PRs.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
+
+### 🎉 Wins & Gratitudes
+
+- My article for FCC, "[How to Contribute to Open Source Projects – Non-Technical Things You Should Know](https://www.freecodecamp.org/news/how-to-contribute-to-open-source/)", is published!
+- The article also [got listed on the daily.dev](https://app.daily.dev/posts/rlsQZhYek)!
