@@ -905,3 +905,11 @@ I attended my **_first-ever workshop_** today!
 - **Description**: I have an idea of a blog post about open source and I'm thinking to later on publish this at freeCodeCamp.
 - **Tasks completed**:
   - Outlined the article.
+
+## Day 49 <br> _09/09/2023_
+
+### 🤝 Support
+
+- **Description**: My goal is to make a draft of the blog post from the outline.
+- **Tasks completed**:
+  - Drafted the article.
