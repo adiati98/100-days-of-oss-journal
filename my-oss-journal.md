@@ -912,4 +912,19 @@ I attended my **_first-ever workshop_** today!
 
 - **Description**: My goal is to make a draft of the blog post from the outline.
 - **Tasks completed**:
+
   - Drafted the article.
+
+  ## Day 50 <br> _10/09/2023_
+
+### ✨ Contribution
+
+#### [open-sauced / guestbook](https://github.com/open-sauced/guestbook)
+
+- **Description**: I got a feedback yesterday on my PR. So my goal is to work on the fix.
+- **Tasks completed**:
+  - Worked on the fix.
+  - Asked a question to clarify a step.
+- **Challenges faced**: N/A
+- **Resources used**: N/A
+- **OpenSauced Highlight**: N/A
